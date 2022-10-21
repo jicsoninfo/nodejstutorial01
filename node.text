@@ -1,1 +1,12 @@
+ git add .
+ git commit -m done
+ git push
+ 
 
+git pull
+git add .
+git commit -m done
+git merge main
+git pull
+git checkout master
+git checkout branch master
